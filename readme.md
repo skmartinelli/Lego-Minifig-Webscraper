@@ -1,6 +1,6 @@
 # Minifig Scraper
 
-This Python script is designed to scrape minifigure images from the Brickset website for various years and pages. It utilizes concurrent programming to enhance efficiency.
+This Python script is designed to scrape all minifigure images from the Brickset website for various years and pages. It utilizes concurrent programming to enhance efficiency. It is working as of October 9,2023, and the output will contain roughly 14,000 100kb images of minifigures, and a map.txt mapping the image filename to the full name of the lego minifigure.
 
 ## How to Use
 
